@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
