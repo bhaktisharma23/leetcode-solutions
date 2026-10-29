@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
