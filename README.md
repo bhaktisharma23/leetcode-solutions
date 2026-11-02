@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhaktisharma23/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
